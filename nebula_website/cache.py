@@ -6,7 +6,7 @@ import time
 import traceback
 import logging
 import gevent
-from flask_cache import Cache
+from flask_caching import Cache
 
 from nebula_website import settings
 
